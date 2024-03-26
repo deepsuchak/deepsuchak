@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gen-AI, MLOps and Deep Learning**
 
-- 🌱 I’m geek out on **NLP**
+- 🌱 I geek out on **NLP**
 
 - 👨‍💻 All of my projects are available at [bit.ly/deep-portfolio](bit.ly/deep-portfolio)
 
